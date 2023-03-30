@@ -1,3 +1,3 @@
 # TP0
 
-Creación de un programa en C que imprima `Hola profesores`.
+Programa en C que imprima el valor en **ASCII** del caracter ingresado por el usuario.
